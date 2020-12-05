@@ -1,0 +1,2 @@
+# js_for_algorithm
+用JavaScript刷LeetCode
